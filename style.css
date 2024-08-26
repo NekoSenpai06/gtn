@@ -1,0 +1,47 @@
+body {
+    background-size: cover;
+    background-repeat: norepeat;
+    background: linear-gradient(
+        to right,
+        lightblue,
+        pink);
+}
+
+h1, h2 {
+    font-family: monospace;
+}
+
+#dis {
+    background-color: white;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    width: 100px;
+    height: 20px;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    padding: 5px 30px;
+}
+
+p {
+    position: absolute;
+    bottom: 0;
+    font-family: monospace;
+}
